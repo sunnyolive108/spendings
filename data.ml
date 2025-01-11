@@ -5,3 +5,4 @@ type spending = {
 }
 
 let create_spending category amount date = { category; amount; date }
+
